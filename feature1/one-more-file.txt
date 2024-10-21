@@ -1,1 +1,2 @@
 This is the first file that is created inside feature1 folder and second file which is created inside feature1 branch.
+First modification of one-more-file.txt inside feature1 folder of feature1 branch for third commit.
