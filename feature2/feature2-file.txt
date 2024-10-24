@@ -1,0 +1,3 @@
+feature2-file.txt has been added inside feature2 folder of feature2 branch.
+
+1st modification of feature2-file.txt inside feature2 folder of feature2 branch.
